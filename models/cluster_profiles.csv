@@ -1,0 +1,5 @@
+Cluster,Total_Spend,Number_of_Orders,Avg_Order_Value,Days_Since_Last_Purchase,Average_Rating,Discount_Applied,Items_Per_Order
+0,3053.84,3.97,788.7,70.64,3.82,0.45,1.32
+1,19269.53,12.28,1535.07,57.21,3.63,1.0,2.34
+2,112243.35,25.83,4101.67,13.42,4.44,0.22,2.82
+3,24297.99,12.56,1897.11,90.44,3.62,0.0,2.12

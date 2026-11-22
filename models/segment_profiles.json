@@ -1,0 +1,22 @@
+{
+  "2": {
+    "name": "VIPS",
+    "summary": "Highest spend, most frequent, most recent, happiest customers.",
+    "strategy": "Protect and reward: loyalty perks, early access, personal service. No discounts needed."
+  },
+  "3": {
+    "name": "At-Risk Full-Price Buyers",
+    "summary": "Good spenders who have gone quiet and never use discounts.",
+    "strategy": "Win-back campaign: a personal message and new arrivals. Test a small incentive against none."
+  },
+  "1": {
+    "name": "Discount-Driven Regulars",
+    "summary": "Regular buyers who always use a discount, with the lowest ratings.",
+    "strategy": "Use bundles, basket minimums and loyalty points instead of blanket discounts."
+  },
+  "0": {
+    "name": "Occasional Low-Spenders",
+    "summary": "Rare, small purchases and very low revenue.",
+    "strategy": "Low-cost automated outreach. Aim to increase basket size."
+  }
+}
